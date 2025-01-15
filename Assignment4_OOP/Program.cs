@@ -73,6 +73,21 @@ namespace Assignment4_OOP
 
             //Solution =>   i userd : to implement an interface in a class in c#  thats called =>  implementation 
             #endregion
+
+
+            #region Q6
+            //Question 6:
+            //Can an interface contain static methods in C#?
+            //a) Yes
+            //b) No
+            //c) Only if the interface is sealed
+            //d) Only if the methods are private
+
+
+
+
+            //Solution => a) Yes
+            #endregion
             #endregion
 
 
