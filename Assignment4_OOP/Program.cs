@@ -60,6 +60,19 @@ namespace Assignment4_OOP
 
             //Solution => b) Yes, interfaces can inherit from multiple interfaces
             #endregion
+
+            #region Q5
+            //Question 5:
+            //Which keyword is used to implement an interface in a class in C#?
+            //a) inherit
+            //b) use
+            //c) extends
+            //d) implements
+
+
+
+            //Solution =>   i userd : to implement an interface in a class in c#  thats called =>  implementation 
+            #endregion
             #endregion
 
 
