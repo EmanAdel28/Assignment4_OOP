@@ -116,6 +116,21 @@ namespace Assignment4_OOP
 
 
             #endregion
+
+
+            #region Q9
+            //Question 9:
+            //In C#, can an interface have a constructor?
+            //a) Yes, but it must be private
+            //b) No, interfaces cannot have constructors
+            //c) Yes, but only if the interface is sealed
+            //d) Only if the constructor is static
+
+
+
+
+            //Solution => d) Only if the constructor is static
+            #endregion
             #endregion
 
 
