@@ -74,7 +74,6 @@ namespace Assignment4_OOP
             //Solution =>   i userd : to implement an interface in a class in c#  thats called =>  implementation 
             #endregion
 
-
             #region Q6
             //Question 6:
             //Can an interface contain static methods in C#?
@@ -87,6 +86,19 @@ namespace Assignment4_OOP
 
 
             //Solution => a) Yes
+            #endregion
+
+            #region Q7
+            //Question 7:
+            //In C#, can an interface have explicit access modifiers for its members?
+            //a) Yes, for all members
+            //b) No, all members are implicitly public
+            //c) Yes, but only for abstract members
+            //d) Only if the interface is sealed
+
+
+
+            //Solution => b) No, all members are implicitly public
             #endregion
             #endregion
 
