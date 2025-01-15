@@ -37,7 +37,17 @@ namespace Assignment4_OOP
             //Solution => a) private  b) protected  c) internal
             #endregion
 
+            #region Q3
+            //Question 3:
+            //Can an interface contain fields in C#?
+            //a) Yes
+            //b) No
+            //c) Only if they are static
+            //d)  Only if they are read only
 
+
+            //Solution => b) No
+            #endregion
             #endregion
 
 
