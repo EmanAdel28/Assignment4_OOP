@@ -34,7 +34,7 @@ namespace Assignment4_OOP
             //d) public
 
 
-            //Solution => a) private  b) protected  c) internal
+            //Solution => a) private  
             #endregion
 
             #region Q3
