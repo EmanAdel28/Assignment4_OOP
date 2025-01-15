@@ -146,6 +146,25 @@ namespace Assignment4_OOP
             #endregion
 
 
+            #region Part2
+            #region Q1
+            //Question 01:
+            //Define an interface named IShape with a property Area and a method DisplayShapeInfo.Create two interfaces,
+            //ICircle and IRectangle, that inherit from IShape.Implement these interfaces in classes Circle and Rectangle.
+            //Test your implementation by creating instances of both classes and displaying their shape information.
+
+
+            ICircle circle1 = new Circle(5);
+            circle1.DisplayShapeInfo();
+
+            IRectangle rectangle1 = new Rectangle(4, 6);
+            rectangle1.DisplayShapeInfo();
+            #endregion
+            #endregion
+
+
+
+
 
         }
     }
